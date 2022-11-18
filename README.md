@@ -17,25 +17,25 @@
 ## App Description + Screenshot
 
 1. 스플래시 화면 <Br>
-   <img src="./readme/정연준.JPG" width="250px" height="250px">
+   <img src="./Screenshot/Splash.jpg" width="100px" height="250px">
 
 2. 초기 화면(메인 화면)
 - 소자 인식 장치 상단의 소자별 카테고리 존재
 - 카테고리 종류 : Resistance, Variable Resistance, Capacitor, Inductor, IC devices
 - 각 소자 인식이 끝나면 Reset 버튼으로 초기화 <Br>
-  <img src="./readme/정연준.JPG" width="250px" height="250px">
+  <img src="./Screenshot/Main.jpg" width="100px" height="250px">
 
 3. 각 소자 인식 화면
 - Resistance : 인식한 소자에 따른 ahm, capacity, error 표시 <Br>
-  <img src="./readme/정연준.JPG" width="250px" height="250px">
+  <img src="./Screenshot/Resistance.jpg" width="100px" height="250px">
 - Variable Resistance : <Br>
-  <img src="./readme/정연준.JPG" width="250px" height="250px">
+  <img src="./Screenshot/Variable Resistance.jpg" width="100px" height="250px">
 - Capacitor : <Br>
-  <img src="./readme/정연준.JPG" width="250px" height="250px">
+  <img src="./Screenshot/Capacitor.jpg" width="100px" height="250px">
 - Inductor : <Br>
-  <img src="./readme/정연준.JPG" width="250px" height="250px">
+  <img src="./Screenshot/Inductor.jpg" width="100px" height="250px">
 - IC devices : 인식한 소자에 따른 데이터 시트와 소자이름과 type <Br>
-  <img src="./readme/정연준.JPG" width="250px" height="250px">
+  <img src="./Screenshot/IC devices.jpg" width="100px" height="250px">
 
 ---
 
@@ -55,7 +55,7 @@
 |   이름   | 정연준                                                                                                                 | 장은영                                                                                                                 | 최희진                                                                                                                 |
 | -------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 |          | 각 소자 버튼에 맞는<br> 함수 생성                                                                                          | 각 소자에 맞는 json<br> 파일 생성                                                                                          | teachable muchine으로<br> model 학습                                                                                          |
-|          | 카메라 기능 구현                                                                                                        | 소자에 대한 변수 지정                                                                                                        | 학습된 model들 불러와 수정                                                                                                        |
+|          | 카메라 기능 구현                                                                                                        | 소자에 대한 변수 지정                                                                                                        | 학습된 model들 불러와서 수정                                                                                                       |
 |          | 학습된 모델과 비교하여<br> 출력부 완성                                                                                   | json 파일들 불러오기                                                                                   |                                                                                    |
 
 ---
