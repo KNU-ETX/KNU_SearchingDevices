@@ -23,19 +23,19 @@
 - 소자 인식 장치 상단의 소자별 카테고리 존재
 - 카테고리 종류 : Resistance, Variable Resistance, Capacitor, Inductor, IC devices
 - 각 소자 인식이 끝나면 Reset 버튼으로 초기화 <Br>
-  <img src="./Screenshot/Main.jpg" width="100px" height="250px">
+  <img src="./Screenshot/Main.jpg" width="200px" height="400px">
 
 3. 각 소자 인식 화면
 - Resistance : 인식한 소자에 따른 ahm, capacity, error 표시 <Br>
-  <img src="./Screenshot/Resistance.jpg" width="100px" height="250px">
+  <img src="./Screenshot/Resistance.jpg" width="200px" height="400px">
 - Variable Resistance : <Br>
-  <img src="./Screenshot/Variable Resistance.jpg" width="100px" height="250px">
+  <img src="./Screenshot/Variable Resistance.jpg" width="200px" height="400px">
 - Capacitor : <Br>
-  <img src="./Screenshot/Capacitor.jpg" width="100px" height="250px">
+  <img src="./Screenshot/Capacitor.jpg" width="200px" height="400px">
 - Inductor : <Br>
-  <img src="./Screenshot/Inductor.jpg" width="100px" height="250px">
+  <img src="./Screenshot/Inductor.jpg" width="200px" height="400px">
 - IC devices : 인식한 소자에 따른 데이터 시트와 소자이름과 type <Br>
-  <img src="./Screenshot/IC devices.jpg" width="100px" height="250px">
+  <img src="./Screenshot/IC devices.jpg" width="200px" height="400px">
 
 ---
 
