@@ -17,7 +17,7 @@
 ## App Description + Screenshot
 
 1. 스플래시 화면 <Br>
-   <img src="./Screenshot/Splash.jpg" width="100px" height="250px">
+   <img src="./Screenshot/Splash.jpg" width="200px" height="400px">
 
 2. 초기 화면(메인 화면)
 - 소자 인식 장치 상단의 소자별 카테고리 존재
