@@ -16,26 +16,25 @@
 
 ## App Description + Screenshot
 
-1. 스플래시 화면
+1. 스플래시 화면 <Br>
    <img src="./readme/정연준.JPG" width="250px" height="250px">
-2. 초기 화면(메인 화면)
 
+2. 초기 화면(메인 화면)
 - 소자 인식 장치 상단의 소자별 카테고리 존재
 - 카테고리 종류 : Resistance, Variable Resistance, Capacitor, Inductor, IC devices
-- 각 소자 인식이 끝나면 Reset 버튼으로 초기화
+- 각 소자 인식이 끝나면 Reset 버튼으로 초기화 <Br>
   <img src="./readme/정연준.JPG" width="250px" height="250px">
 
 3. 각 소자 인식 화면
-
-- Resistance : 인식한 소자에 따른 ahm, capacity, error 표시
+- Resistance : 인식한 소자에 따른 ahm, capacity, error 표시 <Br>
   <img src="./readme/정연준.JPG" width="250px" height="250px">
-- Variable Resistance :
+- Variable Resistance : <Br>
   <img src="./readme/정연준.JPG" width="250px" height="250px">
-- Capacitor :
+- Capacitor : <Br>
   <img src="./readme/정연준.JPG" width="250px" height="250px">
-- Inductor :
+- Inductor : <Br>
   <img src="./readme/정연준.JPG" width="250px" height="250px">
-- IC devices : 인식한 소자에 따른 데이터 시트와 소자이름과 type
+- IC devices : 인식한 소자에 따른 데이터 시트와 소자이름과 type <Br>
   <img src="./readme/정연준.JPG" width="250px" height="250px">
 
 ---
@@ -46,7 +45,7 @@
 
 | 이름   | 정연준                                                                             | 장은영                                                                             | 최희진                                                                             |
 | ------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-|        | <p align="center"><img src="./readme/정연준.JPG" width="250px" height="250px"></p> | <p align="center"><img src="./readme/장은영.JPG" width="250px" height="250px"></p> | <p align="center"><img src="./readme/최희진.JPG" width="250px" height="250px"></p> |
+|        | <p align="center"><img src="./readme/정연준.JPG" width="200px" height="200px"></p> | <p align="center"><img src="./readme/장은영.JPG" width="200px" height="200px"></p> | <p align="center"><img src="./readme/최희진.JPG" width="200px" height="200px"></p> |
 |        | 팀장                                                                               | 팀원                                                                               | 팀원                                                                               |
 | 역할   | PM, 개발                                                                           | 개발, 소자 데이터 수집, 앱 기능 영상 촬영 및 편집, 기능 소개                       | 개발, 소자 데이터 수집, 신청서류 작성 및 자료 정리, 아이디어 제공                  |
 | 기여도 | 40%                                                                                | 30%                                                                                | 30%                                                                                |
